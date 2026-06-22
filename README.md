@@ -52,7 +52,7 @@ OOP-Library-System/
 - 📋 List all catalog items
 - 📊 View full report
 
-### Bonus Features (+15 Marks)
+### Bonus Features
 - 🔍 Search item by title
 - ✅ Show available items only
 - 📈 Statistics by item type in the report
